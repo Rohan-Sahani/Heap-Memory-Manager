@@ -1,0 +1,5 @@
+/*
+    This is a personal project for developing a heap memory manager using C from scratch.
+    I have been interested in Operating Systems as subject for a while now and am working on this project as 
+    a means to demystify the field of memory management.
+*/
